@@ -1,0 +1,9 @@
+.Paging {
+    height: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    size: 1.5em;
+    color: white!;
+}
