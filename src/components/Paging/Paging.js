@@ -23,8 +23,6 @@ export default function Paging({ setPage  , numOfPages = 20 }) {
                 <Pagination
                     onChange={(e) => handleChange(e.target.textContent)}
                     count={numOfPages}
-                    
-                    
                     hideNextButton
                     hidePrevButton
                      />

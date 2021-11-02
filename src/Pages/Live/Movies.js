@@ -2,7 +2,7 @@ import axios from "axios"
 import { useEffect } from "react";
 import { useState } from "react";
 import Paging from "../../components/Paging/Paging";
-import Generes from "../../components/SingleContent/Generes";
+import Generes from "../../components/Genres/Generes";
 import SingleContent from "../../components/SingleContent/SingleContent";
 import './Movies.css';
 import useGenres from "../../hooks/useGenre";

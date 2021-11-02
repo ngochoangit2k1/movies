@@ -55,7 +55,7 @@ export default function SimpleBottomNavigation() {
     
       <BottomNavigationAction  
        style = {{color: "white"}}
-       label="LiveTV" 
+       label="movie theaters" 
        icon={<LiveTvIcon />} />
          <BottomNavigationAction  
         style = {{color: "white"}}
